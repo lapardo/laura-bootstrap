@@ -1,0 +1,49 @@
+/* CSS Document */
+
+/* colors:
+yellow: #FAE302;
+green: #094609;
+aqua: #7EDDCF;
+purple: #CC94E2;
+*/
+
+body {
+	font-family: 'Pangolin', cursive;
+	color: #094609;
+}
+
+h1, h2, h3 {
+	text-transform: uppercase;
+}
+
+.logo {
+	background: #FAE302;
+}
+
+.logo img {
+	width: 200px;
+}
+
+nav {
+	background: #FAE302;
+}
+
+.nav-link {
+	color: #094609;
+}
+
+.nav-link:hover {
+	color: #CC94E2;
+}
+
+.navbar-toggler-icon {
+	background-image: url("../images/toggle.png")
+}
+
+.products {
+	text-align: center;
+}
+
+.content-shop {
+	background: #7EDDCF;
+}
