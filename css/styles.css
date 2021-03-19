@@ -63,13 +63,13 @@ nav {
 	padding: 20px;
 }
 
-.btn {
+.button {
 	background: #094609;
-	padding: 20px;
+	padding: 15px;
 	color: #FAE302;
 	font-size: 30px;
 }
 
-.btn:hover {
+.button:hover {
 	color: #7EDDCF;
 }
