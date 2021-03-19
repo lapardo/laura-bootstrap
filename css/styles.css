@@ -66,6 +66,10 @@ nav {
 .btn {
 	background: #094609;
 	padding: 20px;
-	color: white;
+	color: #FAE302;
 	font-size: 30px;
+}
+
+.btn:hover {
+	color: #7EDDCF;
 }
