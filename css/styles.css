@@ -8,13 +8,24 @@ purple: #CC94E2;
 */
 
 body {
-	font-family: 'Pangolin', cursive;
+	font-family: 'Lato', sans-serif;
 	color: #094609;
 }
 
 h1, h2, h3 {
 	text-transform: uppercase;
 	padding-top: 10px;
+}
+
+.button {
+	background: #094609;
+	padding: 15px;
+	color: #FAE302;
+	font-size: 30px;
+}
+
+.button:hover {
+	color: #7EDDCF;
 }
 
 .logo {
@@ -32,6 +43,7 @@ nav {
 .nav-link {
 	color: #094609;
 	font-size: 20px;
+	text-transform: uppercase;
 }
 
 .nav-link:hover {
@@ -54,16 +66,10 @@ nav {
 	width: 300px;
 }
 
-.content-shop h2 {
+.content-shop p {
+	font-size: 20px;
 }
 
-.button {
-	background: #094609;
-	padding: 15px;
-	color: #FAE302;
-	font-size: 30px;
-}
-
-.button:hover {
-	color: #7EDDCF;
+.feature img {
+	width: 300px;
 }
