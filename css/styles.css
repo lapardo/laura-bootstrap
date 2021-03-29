@@ -73,3 +73,19 @@ nav {
 .feature img {
 	width: 300px;
 }
+
+.content-values {
+	background: #FAE302;
+}
+
+.content-values img {
+	width: 300px;
+}
+
+.content-values p {
+	font-size: 20px;
+}
+
+.quality img {
+	width: 150px;
+}
