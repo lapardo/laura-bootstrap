@@ -44,23 +44,17 @@ nav {
 
 .products {
 	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 10px;
 }
 
 .content-shop {
 	background: #7EDDCF;
-	padding-top: 30px;
-	padding-bottom: 40px;
 }
 
 .content-shop img {
-	padding-top: 20px;
 	width: 300px;
 }
 
 .content-shop h2 {
-	padding: 20px;
 }
 
 .button {
