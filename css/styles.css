@@ -94,3 +94,15 @@ footer {
 	background: #094609;
 	color: white;
 }
+
+footer img {
+	width: 80px;
+}
+
+footer li {
+	font-size: 30px;
+}
+
+footer i {
+	font-size: 3em;
+}
