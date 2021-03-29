@@ -12,9 +12,15 @@ body {
 	color: #094609;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
 	text-transform: uppercase;
 	padding-top: 10px;
+}
+
+.title {
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight: 400;
 }
 
 .button {
@@ -26,6 +32,7 @@ h1, h2, h3 {
 
 .button:hover {
 	color: #7EDDCF;
+	text-decoration: none;
 }
 
 .logo {
@@ -71,7 +78,7 @@ nav {
 }
 
 .feature img {
-	width: 300px;
+	width: 250px;
 }
 
 .content-values {
@@ -87,7 +94,7 @@ nav {
 }
 
 .quality img {
-	width: 150px;
+	width: 100px;
 }
 
 footer {
@@ -96,7 +103,7 @@ footer {
 }
 
 footer img {
-	width: 80px;
+	width: 50px;
 }
 
 footer li {
@@ -104,5 +111,11 @@ footer li {
 }
 
 footer i {
-	font-size: 3em;
+	font-size: 2em;
+}
+
+.btn-news {
+	background: #FAE302;
+	color: #094609;
+	text-transform: uppercase;
 }
